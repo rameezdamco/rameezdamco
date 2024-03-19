@@ -68,9 +68,6 @@
 </p>
 
 <p align="center">
- <a href="https://rameez.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rameez" />
- </a>
  <a href="https://linkedin.com/in/rameezarshad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rameez"/>
  </a>
@@ -83,7 +80,7 @@
  <a href="https://instagram.com/rameezarshad" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="rameez" />
  </a> 
- <a href="https://facebook.com/rameezarshad" target="_blank">
+ <a href="https://facebook.com/hashtag.rameez" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="rameez"  />
   </a> 
 </p>
